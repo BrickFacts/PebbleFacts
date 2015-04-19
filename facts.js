@@ -60,3 +60,5 @@ card.on('click', function(e) {
     console.log('Failed fetching fact: ' + error);
   }
 );
+
+});
